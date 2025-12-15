@@ -63,16 +63,6 @@ Certified in **Oracle Generative AI and Data Science**, currently pursuing **AWS
 
 ---
 
-## 📜 Certifications
-- 🏅 Oracle OCI **Data Science Professional (2025)**
-- 🏅 Oracle OCI **Generative AI Professional (2025)**
-- 📘 Generative AI with LLMs – Coursera
-- 📘 Deep Learning – Illinois Tech (Coursera)
-- 📘 Machine Learning – IITM Pravartak & Internshala
-- 🚀 Pursuing **AWS AI Practitioner**
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiru9604&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiru9604&layout=compact&theme=dark)
