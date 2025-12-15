@@ -63,25 +63,6 @@ Certified in **Oracle Generative AI and Data Science**, currently pursuing **AWS
 
 ---
 
-## 🧠 Featured Projects
-
-### 🔹 DuoMind – Dual-Mode RAG System
-- Built a **full-stack RAG platform** using FastAPI, LangChain, ChromaDB, and Groq LLaMA-3  
-- Implemented **hybrid BM25+ & DPR retrieval** with dynamic weight fusion  
-- Reduced hallucinations and optimized context usage by **60–80%**
-
-### 🔹 Price Radar – AI-Powered E-Commerce Analytics
-- Streamlit-based analytics tool for **multi-region Amazon price intelligence**  
-- Automated competitor discovery and benchmarking using **LLaMA 3.3 70B (Groq)**  
-- Reduced manual analysis time by **95%**
-
-### 🔹 AURA – Accessible AI Health Assistant
-- Voice-enabled health assistant using **React, Node.js, OpenAI Whisper & GPT**  
-- Offline-first storage and reminder system for elderly & disabled users  
-- Improved medication adherence by ~**30%**
-
----
-
 ## 📜 Certifications
 - 🏅 Oracle OCI **Data Science Professional (2025)**
 - 🏅 Oracle OCI **Generative AI Professional (2025)**
