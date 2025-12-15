@@ -11,7 +11,7 @@
 I am an AI-focused Computer Science student with hands-on experience in **Machine Learning, Deep Learning, Generative AI, NLP, and LLM-based systems**.  
 I enjoy building **scalable, data-driven, real-world AI applications**, especially in areas like **Retrieval-Augmented Generation (RAG)**, intelligent analytics, and AI-powered assistants.
 
-Certified in **Oracle Generative AI and Data Science**, currently pursuing **AWS AI Practitioner**, and constantly exploring modern AI stacks to stay industry-ready.
+Certified in **Oracle Generative AI and Data Science**, and constantly exploring modern AI stacks to stay industry-ready.
 
 ---
 
