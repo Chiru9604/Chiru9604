@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chiranjeevi Srinivas Ravichandran
 
-🎓 Pre-final year Computer Science Engineering student  
+🎓 Final year Computer Science Engineering student  
 🧠 AI | Machine Learning | Generative AI Enthusiast  
 📍 SRM Institute of Science and Technology, Chennai  
 
